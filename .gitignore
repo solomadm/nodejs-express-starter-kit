@@ -1,0 +1,7 @@
+.idea
+node_modules
+npm-debug.log
+forever.log
+forever-out.log
+forever-err.log
+config/env.js
